@@ -14,8 +14,6 @@ public class checkPalindrome {
                 cont++;
             }
         }
-        if(cont == inputString.length())
-            return true;
-        else return false;
+        return cont == inputString.length();
     }
 }
