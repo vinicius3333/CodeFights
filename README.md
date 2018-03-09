@@ -22,3 +22,4 @@ My solutions for the CodeFights with Java.
 
 * [Dark Wilderness](Intro/Dark_Wilderness)
 
+* [Eruption of Light](Intro/Eruption_of_Light)
