@@ -25,3 +25,5 @@ My solutions for the CodeFights with Java.
 * [Eruption of Light](Intro/Eruption_of_Light)
 
 * [Rainbow of Clarity](Intro/Rainbow_of_Clarity)
+
+* [Land of Logic](Intro/Land_of_Logic)
