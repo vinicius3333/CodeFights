@@ -28,5 +28,5 @@ My solutions for the CodeFights with Java.
 
 * [Land of Logic](Intro/Land_of_Logic)
 
-##The Core
+## The Core
 * [Intro Gates](The_Core/Intro_Gates)
