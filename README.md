@@ -27,3 +27,6 @@ My solutions for the CodeFights with Java.
 * [Rainbow of Clarity](Intro/Rainbow_of_Clarity)
 
 * [Land of Logic](Intro/Land_of_Logic)
+
+##The Core
+* [Intro Gates](The_Core/Intro_Gates)
