@@ -30,3 +30,4 @@ My solutions for the CodeFights with Java.
 
 ## The Core
 * [Intro Gates](The_Core/Intro_Gates)
+* [At the Crossroads](The_Core/At_the_Crossroads)
