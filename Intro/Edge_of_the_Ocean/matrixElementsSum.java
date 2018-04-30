@@ -8,23 +8,17 @@ public class matrixElementsSum {
     }
 
     static int matrixElementsSum(int[][] matrix){
-        int c = 0;
-        int[][] y = new int[matrix.length + 7][matrix.length + 7];
+        int c = 0, length;
         for(int i = 0; i < matrix.length; i++){
             for(int j = 0; j < matrix[i].length; j++){
                 if(matrix[i][j] == 0){
-                    y[i][j] = 1;
-                    y[i+1][j] = 1;
-                    y[i+2][j] = 1;
-                    y[i+3][j] = 1;
-                    y[i+4][j] = 1;
-                    y[i+5][j] = 1;
-                    y[i+6][j] = 1;
+                    length = i;
+                    while(length < matrix.length-1){
+                        matrix[i+1][j] = 0;
+                        length++;
+                    }
                 }
-                if(matrix[i][j] > 0 && y[i][j] == 0 && y[i+1][j] == 0){
-                    //System.out.println("Soma");
-                    c += matrix[i][j];
-                }
+                else c += matrix[i][j];
             }
         }
         return c;
