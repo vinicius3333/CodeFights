@@ -18,30 +18,16 @@ public class All_Longest_Strings {
     }
 
     public static String[] allLongestString(String[] inputarray){
-        ArrayList<String> set = new ArrayList<>();
-        ArrayList<String> set2 = new ArrayList<>();
-        int j = 0;
+        int longest = 0;
+        ArrayList<String> answer = new ArrayList<>();
 
-        for(int i = 0 ; i < inputarray.length; i++){
-            set.add(inputarray[i]);
-        }
-        int l = inputarray[0].length();
+        for(String i : inputArray)
+            if(i.length() > longest) longest = i.length();
 
-        for(int i = 0; i < inputarray.length; i++){
-            if(set.get(i).length() >= l){
-                l = set.get(i).length();
-            }
-        }
-        for(int i = 0; i < inputarray.length; i++){
-            if(set.get(i).length() == l){
-                set2.add(set.get(i));
-            }
+        for(int i = 0; i < inputArray.length; i++){
+            if(inputArray[i].length() == longest) answer.add(inputArray[i]);
         }
 
-
-        String[] aux = new String[set2.size()];
-        aux = set2.toArray(aux);
-
-        return aux;
+        return answer.toArray(new String[0]);
     }
 }
