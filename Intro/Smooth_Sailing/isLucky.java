@@ -8,22 +8,13 @@ public class isLucky {
     }
 
     static boolean isLucky(int n){
-        String str = String.valueOf(n);
-        String L = str.substring(0,str.length()/2);
-        String R = str.substring(str.length()/2,str.length());
-        int[] l = new int[L.length()];
-        int[] r = new int[R.length()];
+        int sum = 0;
+        String strN = String.valueOf(n);
 
-        for(int i = 0; i < l.length; i++){
-            l[i] = Integer.parseInt(L.substring(i,i+1));
-        }
-        for(int i = 0; i < r.length; i++){
-            r[i] = Integer.parseInt(R.substring(i,i+1));
-        }
+        for(int i = 0; i < strN.length()/2; i++)
+            sum += strN.toCharArray()[i] - strN.toCharArray()[strN.length()-1-i];
 
-        if(IntStream.of(l).sum() == IntStream.of(r).sum())
-            return true;
-        else
-            return false;
+        return sum == 0;
     }
+
 }
