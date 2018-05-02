@@ -10,27 +10,22 @@ public class commonCharacterCount {
         System.out.println(commonCharacterCount("aabcc", "adcaa"));
     }
 
-    static int commonCharacterCount(String s1, String s2){
+    static int commonCharacterCount(String s1, String s2) {
+        ArrayList<Character> list = new ArrayList<>();
+        char c;
         int pairs = 0;
-        ArrayList<Character> set = new ArrayList<>();
-        ArrayList<Character> set2 = new ArrayList<>();
+
+        for(char i : s1.toCharArray())
+            list.add(i);
 
         for(int i = 0; i < s2.length(); i++){
-            set2.add(s2.toCharArray()[i]);
-        }
-        for(int i = 0; i < s1.length(); i++){
-            set.add(s1.toCharArray()[i]);
-        }
-
-        for(int i = 0; i < set.size() ; i++){
-            for(int j = 0; j < set2.size(); j++){
-                if(set.get(i) == set2.get(j)){
-                    set2.remove(j);
-                    j = set2.size();
-                    pairs++;
-                }
+            c = s2.toCharArray()[i];
+            if(list.contains(c)) {
+                list.remove(list.indexOf(c));
+                pairs++;
             }
         }
+
         return pairs;
     }
 }
