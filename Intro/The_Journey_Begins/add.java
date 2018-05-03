@@ -2,11 +2,13 @@ package CodeFights.Intro.The_Journey_Begins;
 
 /*** 
 ---Pergunta/ Question---
-Escreva uma função que retorne a soma de dois números./ Write a function that returns the sum of two numbers.
+Write a function that returns the sum of two numbers.
 
+Escreva uma função que retorne a soma de dois números.
 ---Comentários/ Comments---
-Apenas escreva um algoritmo que retorne a soma de dois valores./ Just write an algorithm that returns the sum of two values.
+Just write an algorithm that returns the sum of two values.
 
+Apenas escreva um algoritmo que retorne a soma de dois valores.
 ***/
 
 public class add {
