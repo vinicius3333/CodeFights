@@ -4,8 +4,8 @@ My solutions for the CodeFights with Java.
 
 
 ## Intro
-### The Journey Begins
-| --- | --- |
+| The Journey Begins |
+| ----- | ----- |
 | 1/60 | [add](Intro/The_Journey_Begins/add.java) |
 | 2/60 | [centuryFromYear](Intro/The_Journey_Begins/centuryFromYear.java) |
 | 3/60 | [checkPalindrome](Intro/The_Journey_Begins/checkPalindrome.java) |
