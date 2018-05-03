@@ -4,7 +4,7 @@ My solutions for the CodeFights with Java.
 
 
 ## Intro
-| The Journey Begins |
+| The Journey Begins | Level 1 |
 | ----- | ----- |
 | 1/60 | [add](Intro/The_Journey_Begins/add.java) |
 | 2/60 | [centuryFromYear](Intro/The_Journey_Begins/centuryFromYear.java) |
