@@ -21,9 +21,20 @@ My solutions for the CodeFights with Java.
 
 | [Smooth Sailing](Intro/Smooth_Sailing) | Level 3 |
 | ----- | ----- |
+| [All_Longest_Strings](Intro/Smooth_Sailing/All_Longest_Strings.java) | 9/60 |
+| [commonCharacterCount](Intro/Smooth_Sailing/commonCharacterCount.java) | 10/60 |
+| [isLucky](Intro/Smooth_Sailing/isLucky.java) | 11/60 |
+| [reverseParentheses](Intro/Smooth_Sailing/reverseParentheses.java) | 12/60 |
+| [sortByHeight](Intro/Smooth_Sailing/sortByHeight.java) | 13/60 |
 
 | [Exploring The Waters](Intro/Exploring_The_Waters) | Level 4 |
 | ----- | ----- |
+| [alternatingSums](Intro/Exploring_The_Waters/alternatingSums.java) | 14/60 |
+| [Add_Border](Intro/Exploring_The_Waters/Add_Border.java) | 15/60 |
+| [Are_Similar](Intro/Exploring_The_Waters/Are_Similar.java) | 16/60 |
+| [arrayChange](Intro/Exploring_The_Waters/arrayChange.java) | 17/60 |
+| [palindromeRearranging](Intro/Exploring_The_Waters/palindromeRearranging.java) | 18/60 |
+
 
 | [Insland of Knowledge](Intro/Insland_of_Knowledge) | Level 5 |
 | ----- | ----- |
