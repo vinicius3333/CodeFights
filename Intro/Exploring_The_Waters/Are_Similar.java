@@ -1,7 +1,6 @@
 package CodeFights.Intro.Exploring_The_Waters;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 public class Are_Similar {
