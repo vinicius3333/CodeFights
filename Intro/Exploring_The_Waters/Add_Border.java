@@ -12,32 +12,18 @@ public class Add_Border {
     }
 
     static String[] addBorder(String[] picture){
-        String[] aux = new String[picture.length + 2];
-        int q = 0;
-        int c = aux.length;
-        int t = 0;
+        String[] strArr = new String[picture.length+2];
+        strArr[0] = "*";
+        strArr[strArr.length-1] = "*";
+        int a;
 
-        for(int i = 0; i < picture.length; i++){
-            picture[i] += "*";
-            picture[i] = "*" + picture[i];
-        }
-
-        for(int i = 0; i < aux.length; i++){
-            aux[i] = "";
-        }
-        for(int i = 0; i < picture[0].length(); i++){
-            aux[0] += "*";
-            aux[aux.length-1] += "*";
+        for(int i = 0; i < strArr.length; i++){
+            a = picture[0].length();
+            if(i == 0 || i == strArr.length-1)
+                while(a-- >= 0) strArr[i] += "*";
+            else strArr[i] = "*" + picture[i-1] + "*";
         }
 
-        while(0 < c){
-            if(aux[q].isEmpty()){
-                aux[q] = picture[t];
-                t++;
-            }
-            q++;
-            c--;
-        }
-        return aux;
+        return strArr;
     }
 }
