@@ -9,6 +9,7 @@ Escreva uma função que retorne a soma de dois números.
 Just write an algorithm that returns the sum of two values.
 
 Apenas escreva um algoritmo que retorne a soma de dois valores.
+Teste
 ***/
 
 public class add {
