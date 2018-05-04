@@ -10,16 +10,15 @@ public class Are_Similar {
                 new int[]{1,1}));
     }
 
-    static boolean areSimilar(int[]a, int[]b){
+    static boolean areSimilar(int[] a, int[] b) {
         ArrayList<Integer> list = new ArrayList<>();
-        for(int i = 0; i < a.length; i++){
+        for(int i = 0; i < a.length; i++)
             if(a[i] != b[i]) list.add(i);
-        }
-        if(list.size() == 0) return true;
+        
         if(list.size() == 2){
             int i = list.get(0), j = list.get(1);
             return a[i] == b[j] && a[j] == b[i];
         }
-        return false;
+        return list.size() == 0;
     }
 }
