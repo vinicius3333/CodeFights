@@ -70,10 +70,10 @@ My solutions for the CodeFights with Java.
 | [Dark Wilderness](Intro/Dark_Wilderness) | Level 9 |
 | ----- | ----- |
 | [growingPlant](Intro/Dark_Wilderness/growingPlant.java) | 38/60 |
-| [arrayMaxConsecutiveSum](Intro/Dark_Wilderness/arrayMaxConsecutiveSum.java) | 39/60 |
-| [arrayMaxConsecutiveSum](Intro/Dark_Wilderness/arrayMaxConsecutiveSum.java) | 40/60 |
-| [arrayMaxConsecutiveSum](Intro/Dark_Wilderness/arrayMaxConsecutiveSum.java) | 41/60 |
-
+| [KnapsackLight](Intro/Dark_Wilderness/KnapsackLight.java) | 39/60 |
+| [LongestDigitsPrefix](Intro/Dark_Wilderness/LongestDigitsPrefix.java) | 40/60 |
+| [DigitDegree](Intro/Dark_Wilderness/DigitDegree.java) | 41/60 |
+| [Bishop_and_Pawn](Intro/Dark_Wilderness/Bishop_and_Pawn.java) | 42/60 |
 
 | [Eruption of Light](Intro/Eruption_of_Light) | Level 10 |
 | ----- | ----- |
