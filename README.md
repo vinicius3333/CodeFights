@@ -38,18 +38,42 @@ My solutions for the CodeFights with Java.
 
 | [Insland of Knowledge](Intro/Insland_of_Knowledge) | Level 5 |
 | ----- | ----- |
+| [areEquallyStrong](Intro/Insland_of_Knowledge/areEquallyStrong.java) | 19/60 |
+| [arrayMaximalAdjacentDifference](Intro/Insland_of_Knowledge/arrayMaximalAdjacentDifference.java) | 20/60 |
+| [isIPv4Adress](Intro/Insland_of_Knowledge/isIPv4Adress.java) | 21/60 |
+| [avoidObstacles](Intro/Insland_of_Knowledge/avoidObstacles.java) | 22/60 |
+| [Box_Blur](Intro/Insland_of_Knowledge/Box_Blur.java) | 23/60 |
+| [Minesweeper](Intro/Insland_of_Knowledge/Minesweeper.java) | 24/60 |
 
 | [Rains of Reason](Intro/Rains_of_Reason) | Level 6 |
 | ----- | ----- |
+| [Array_Replace](Intro/Rains_of_Reason/Array_Replace.java) | 25/60 |
+| [evenDigitsOnly](Intro/Rains_of_Reason/evenDigitsOnly.java) | 26/60 |
+| [variableName](Intro/Rains_of_Reason/variableName.java) | 27/60 |
+| [alphabeticShift](Intro/Rains_of_Reason/alphabeticShift.java) | 28/60 |
+| [chessBoardCellColor](Intro/Rains_of_Reason/chessBoardCellColor.java) | 29/60 |
 
 | [Through the Fog](Intro/Through_the_Fog) | Level 7 |
 | ----- | ----- |
+| [Circle_of_Numbers](Intro/Through_the_Fog/Circle_of_Numbers.java) | 30/60 |
+| [depositProfit](Intro/Through_the_Fog/depositProfit.java) | 31/60 |
+| [absoluteValuesSumMinimization](Intro/Through_the_Fog/absoluteValuesSumMinimization.java) | 32/60 |
+| [stringRearrangement](Intro/Through_the_Fog/stringRearrangement.java) | 33/60 |
 
 | [Diving Deeper](Intro/Diving_Deeper) | Level 8 |
 | ----- | ----- |
+| [extractEachKth](Intro/Diving_Deeper/extractEachKth.java) | 34/60 |
+| [firstDigit](Intro/Diving_Deeper/firstDigit.java) | 35/60 |
+| [differentSymbolsNaive](Intro/Diving_Deeper/differentSymbolsNaive.java) | 36/60 |
+| [arrayMaxConsecutiveSum](Intro/Diving_Deeper/arrayMaxConsecutiveSum.java) | 37/60 |
 
 | [Dark Wilderness](Intro/Dark_Wilderness) | Level 9 |
 | ----- | ----- |
+| [growingPlant](Intro/Dark_Wilderness/growingPlant.java) | 38/60 |
+| [arrayMaxConsecutiveSum](Intro/Dark_Wilderness/arrayMaxConsecutiveSum.java) | 39/60 |
+| [arrayMaxConsecutiveSum](Intro/Dark_Wilderness/arrayMaxConsecutiveSum.java) | 40/60 |
+| [arrayMaxConsecutiveSum](Intro/Dark_Wilderness/arrayMaxConsecutiveSum.java) | 41/60 |
+
 
 | [Eruption of Light](Intro/Eruption_of_Light) | Level 10 |
 | ----- | ----- |
@@ -61,9 +85,11 @@ My solutions for the CodeFights with Java.
 | ----- | ----- |
 
 ## The Core
-* [Intro Gates](The_Core/Intro_Gates)
+| [Intro Gates](The_Core/Intro_Gates) | Level 1 |
+| ----- | ----- |
 
-* [At the Crossroads](The_Core/At_the_Crossroads)
+| [At the Crossroads](The_Core/At_the_Crossroads) | Level 2 |
+| ----- | ----- |
 
-* [Corner of 0s and 1s](The_Core/Corner_of_0s_and_1s)
-
+| [Corner of 0s and 1s](The_Core/Corner_of_0s_and_1s) | Level 3 |
+| ----- | ----- |
