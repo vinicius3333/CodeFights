@@ -77,6 +77,11 @@ My solutions for the CodeFights with Java.
 
 | [Eruption of Light](Intro/Eruption_of_Light) | Level 10 |
 | ----- | ----- |
+| [isBeatutifulString](Intro/Eruption_of_Light/isBeatutifulString.java) | 43/60 |
+| [Find_Email_Domain](Intro/Eruption_of_Light/Find_Email_Domain.java) | 44/60 |
+| [BuildPalindrome](Intro/Eruption_of_Light/BuildPalindrome.java) | 45/60 |
+| [Elections_Winner](Intro/Eruption_of_Light/Elections_Winner.java) | 46/60 |
+| [Is_MAC48_Address](Intro/Eruption_of_Light/Is_MAC48_Address.java) | 47/60 |
 
 | [Rainbow of Clarity](Intro/Rainbow_of_Clarity) | Level 11 |
 | ----- | ----- |
