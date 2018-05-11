@@ -85,6 +85,10 @@ My solutions for the CodeFights with Java.
 
 | [Rainbow of Clarity](Intro/Rainbow_of_Clarity) | Level 11 |
 | ----- | ----- |
+| [isDigit](Intro/Rainbow_of_Clarity/isDigit.java) | 48/60 |
+| [lineEncoding](Intro/Rainbow_of_Clarity/lineEncoding.java) | 49/60 |
+| [chessKnight](Intro/Rainbow_of_Clarity/chessKnight.java) | 50/60 |
+| [deleteDigit](Intro/Rainbow_of_Clarity/deleteDigit.java) | 51/60 |
 
 | [Land of Logic](Intro/Land_of_Logic) | Level 12 |
 | ----- | ----- |
