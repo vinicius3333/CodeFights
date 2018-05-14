@@ -4,13 +4,13 @@ My solutions for the CodeFights with Java.
 
 
 ## Intro
-| The Journey Begins | Level 1 |
+| [The Journey Begins](Intro/The_Journey_Begins) | Level 1 |
 | ----- | ----- |
 | [add](Intro/The_Journey_Begins/add.java) | 1/60 |
 | [centuryFromYear](Intro/The_Journey_Begins/centuryFromYear.java) | 2/60 |
 | [checkPalindrome](Intro/The_Journey_Begins/checkPalindrome.java) | 3/60 |
 
-| Edge of the Ocean | Level 2 |
+| [Edge of the Ocean](Intro/Edge_of_the_Ocean) | Level 2 |
 | ----- | ----- |
 | [adjacentElementsProduct](Intro/Edge_of_the_Ocean/adjacentElementsProduct.java) | 4/60 |
 | [shapeArea](Intro/Edge_of_the_Ocean/shapeArea.java) | 5/60 |
