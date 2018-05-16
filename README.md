@@ -106,5 +106,5 @@ My solutions for the CodeFights with Java.
 | [Loop Tunnel](The_Core/Loop_Tunnel) | Level 4 |
 | ----- | ----- |
 
-| [List Forest Edge] (The_Core/List_Forest_Edge) | Level 5 |
+| [List Forest Edge](The_Core/List_Forest_Edge) | Level 5 |
 | ----- | ----- |
