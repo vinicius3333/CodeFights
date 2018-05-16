@@ -102,3 +102,9 @@ My solutions for the CodeFights with Java.
 
 | [Corner of 0s and 1s](The_Core/Corner_of_0s_and_1s) | Level 3 |
 | ----- | ----- |
+
+| [Loop Tunnel](The_Core/Loop_Tunnel) | Level 4 |
+| ----- | ----- |
+
+| [List Forest Edge] (The_Core/List_Forest_Edge) | Level 5 |
+| ----- | ----- |
