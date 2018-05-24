@@ -92,6 +92,10 @@ My solutions for the CodeFights with Java.
 
 | [Land of Logic](Intro/Land_of_Logic) | Level 12 |
 | ----- | ----- |
+| [longestWord](Intro/Land_of_Logic/longestWord.java) | 52/60 |
+| [Valid_Time](Intro/Land_of_Logic/Valid_Time.java) | 53/60 |
+| [sumUpNumbers](Intro/Land_of_Logic/sumUpNumbers.java) | 54/60 |
+| [Different_Squares](Intro/Land_of_Logic/Different_Squares.java) | 55/60 |
 
 ## The Core
 | [Intro Gates](The_Core/Intro_Gates) | Level 1 |
