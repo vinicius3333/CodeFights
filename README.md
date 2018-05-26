@@ -96,6 +96,11 @@ My solutions for the CodeFights with Java.
 | [Valid_Time](Intro/Land_of_Logic/Valid_Time.java) | 53/60 |
 | [sumUpNumbers](Intro/Land_of_Logic/sumUpNumbers.java) | 54/60 |
 | [Different_Squares](Intro/Land_of_Logic/Different_Squares.java) | 55/60 |
+| [digitsProduct](Intro/Land_of_Logic/digitsProduct.java) | 56/60 |
+| [File_Naming](Intro/Land_of_Logic/File_Naming.java) | 57/60 |
+| [messageFromBinaryCode](Intro/Land_of_Logic/messageFromBinaryCode.java) | 58/60 |
+| [SpiralNumbers](Intro/Land_of_Logic/SpiralNumbers.java) | 59/60 |
+| [Sudoku](Intro/Land_of_Logic/Sudoku.java) | 60/60 |
 
 ## The Core
 | [Intro Gates](The_Core/Intro_Gates) | Level 1 |
