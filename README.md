@@ -105,6 +105,12 @@ My solutions for the CodeFights with Java.
 ## The Core
 | [Intro Gates](The_Core/Intro_Gates) | Level 1 |
 | ----- | ----- |
+| [Add_Two_Digits](The_Core/Intro_Gates/Add_Two_Digits.java) | 1/162 |
+| [Largest_Number](The_Core/Intro_Gates/Largest_Number.java) | 2/162 |
+| [Candies](The_Core/Intro_Gates/Candies.java) | 3/162 |
+| [Seats_in_Theater](The_Core/Intro_Gates/Seats_in_Theater.java) | 4/162 |
+| [Max_Multiple](The_Core/Intro_Gates/Max_Multiple.java) | 5/162 |
+| [Circle_of_Numbers](The_Core/Intro_Gates/Circle_of_Numbers.java) | 6/162 |
 
 | [At the Crossroads](The_Core/At_the_Crossroads) | Level 2 |
 | ----- | ----- |
