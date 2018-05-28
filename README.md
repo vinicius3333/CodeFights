@@ -111,6 +111,8 @@ My solutions for the CodeFights with Java.
 | [Seats_in_Theater](The_Core/Intro_Gates/Seats_in_Theater.java) | 4/162 |
 | [Max_Multiple](The_Core/Intro_Gates/Max_Multiple.java) | 5/162 |
 | [Circle_of_Numbers](The_Core/Intro_Gates/Circle_of_Numbers.java) | 6/162 |
+| [Late_Ride](The_Core/Intro_Gates/Late_Ride.java) | 7/162 |
+| [Phone_Call](The_Core/Intro_Gates/Phone_Call.java) | 8/162 |
 
 | [At the Crossroads](The_Core/At_the_Crossroads) | Level 2 |
 | ----- | ----- |
