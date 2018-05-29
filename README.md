@@ -116,6 +116,11 @@ My solutions for the CodeFights with Java.
 
 | [At the Crossroads](The_Core/At_the_Crossroads) | Level 2 |
 | ----- | ----- |
+| [Reach_Next_Level](The_Core/Intro_Gates/Reach_Next_Level.java) | 9/162 |
+| [Knapsack_Light](The_Core/Intro_Gates/Knapsack_Light.java) | 10/162 |
+| [Extra_Number](The_Core/Intro_Gates/Extra_Number.java) | 11/162 |
+| [Is_Infinite_Process](The_Core/Intro_Gates/Is_Infinite_Process.java) | 12/162 |
+| [Arithmetic_Expression](The_Core/Intro_Gates/Arithmetic_Expression.java) | 13/162 |
 
 | [Corner of 0s and 1s](The_Core/Corner_of_0s_and_1s) | Level 3 |
 | ----- | ----- |
