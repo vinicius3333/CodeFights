@@ -121,12 +121,16 @@ My solutions for the CodeFights with Java.
 | [Extra_Number](The_Core/Intro_Gates/Extra_Number.java) | 11/162 |
 | [Is_Infinite_Process](The_Core/Intro_Gates/Is_Infinite_Process.java) | 12/162 |
 | [Arithmetic_Expression](The_Core/Intro_Gates/Arithmetic_Expression.java) | 13/162 |
-| [Tennis_Set](The_Core/Intro_Gates/Tennis_Set.java | 14/162 |
+| [Tennis_Set](The_Core/Intro_Gates/Tennis_Set.java) | 14/162 |
 | [Will_You](The_Core/Intro_Gates/Will_You.java) | 15/162 |
 | [Metro_Card](The_Core/Intro_Gates/Metro_Card.java) | 16/162 |
 
 | [Corner of 0s and 1s](The_Core/Corner_of_0s_and_1s) | Level 3 |
 | ----- | ----- |
+| [Kill_Kth_Bit](The_Core/Intro_Gates/Kill_Kth_Bit.java) | 17/162 |
+| [Array_Packing](The_Core/Intro_Gates/Array_Packing.java) | 18/162 |
+| [Range_Bit_Count](The_Core/Intro_Gates/Range_Bit_Count.java) | 19/162 |
+| [Mirror_Bits](The_Core/Intro_Gates/Mirror_Bits.java) | 20/162 |
 
 | [Loop Tunnel](The_Core/Loop_Tunnel) | Level 4 |
 | ----- | ----- |
