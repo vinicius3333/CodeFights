@@ -131,6 +131,10 @@ My solutions for the CodeFights with Java.
 | [Array_Packing](The_Core/Intro_Gates/Array_Packing.java) | 18/162 |
 | [Range_Bit_Count](The_Core/Intro_Gates/Range_Bit_Count.java) | 19/162 |
 | [Mirror_Bits](The_Core/Intro_Gates/Mirror_Bits.java) | 20/162 |
+| [Second_Rightmost_Zero_Bit](The_Core/Intro_Gates/Second_Rightmost_Zero_Bit.java) | 21/162 |
+| [Swap_Adjacents_Bits](The_Core/Intro_Gates/Swap_Adjacents_Bits.java) | 22/162 |
+| [Different_Rightmost_Bit](The_Core/Intro_Gates/Different_Rightmost_Bit.java) | 23/162 |
+| [Equal_Pair_of_Bits](The_Core/Intro_Gates/Equal_Pair_of_Bits.java) | 24/162 |
 
 | [Loop Tunnel](The_Core/Loop_Tunnel) | Level 4 |
 | ----- | ----- |
