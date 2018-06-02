@@ -116,28 +116,32 @@ My solutions for the CodeFights with Java.
 
 | [At the Crossroads](The_Core/At_the_Crossroads) | Level 2 |
 | ----- | ----- |
-| [Reach_Next_Level](The_Core/Intro_Gates/Reach_Next_Level.java) | 9/162 |
-| [Knapsack_Light](The_Core/Intro_Gates/Knapsack_Light.java) | 10/162 |
-| [Extra_Number](The_Core/Intro_Gates/Extra_Number.java) | 11/162 |
-| [Is_Infinite_Process](The_Core/Intro_Gates/Is_Infinite_Process.java) | 12/162 |
-| [Arithmetic_Expression](The_Core/Intro_Gates/Arithmetic_Expression.java) | 13/162 |
-| [Tennis_Set](The_Core/Intro_Gates/Tennis_Set.java) | 14/162 |
-| [Will_You](The_Core/Intro_Gates/Will_You.java) | 15/162 |
-| [Metro_Card](The_Core/Intro_Gates/Metro_Card.java) | 16/162 |
+| [Reach_Next_Level](The_Core/At_the_Crossroads/Reach_Next_Level.java) | 9/162 |
+| [Knapsack_Light](The_Core/At_the_Crossroads/Knapsack_Light.java) | 10/162 |
+| [Extra_Number](The_Core/At_the_Crossroads/Extra_Number.java) | 11/162 |
+| [Is_Infinite_Process](The_Core/At_the_Crossroads/Is_Infinite_Process.java) | 12/162 |
+| [Arithmetic_Expression](The_Core/At_the_Crossroads/Arithmetic_Expression.java) | 13/162 |
+| [Tennis_Set](The_Core/At_the_Crossroads/Tennis_Set.java) | 14/162 |
+| [Will_You](The_Core/At_the_Crossroads/Will_You.java) | 15/162 |
+| [Metro_Card](The_Core/At_the_Crossroads/Metro_Card.java) | 16/162 |
 
 | [Corner of 0s and 1s](The_Core/Corner_of_0s_and_1s) | Level 3 |
 | ----- | ----- |
-| [Kill_Kth_Bit](The_Core/Intro_Gates/Kill_Kth_Bit.java) | 17/162 |
-| [Array_Packing](The_Core/Intro_Gates/Array_Packing.java) | 18/162 |
-| [Range_Bit_Count](The_Core/Intro_Gates/Range_Bit_Count.java) | 19/162 |
-| [Mirror_Bits](The_Core/Intro_Gates/Mirror_Bits.java) | 20/162 |
-| [Second_Rightmost_Zero_Bit](The_Core/Intro_Gates/Second_Rightmost_Zero_Bit.java) | 21/162 |
-| [Swap_Adjacents_Bits](The_Core/Intro_Gates/Swap_Adjacents_Bits.java) | 22/162 |
-| [Different_Rightmost_Bit](The_Core/Intro_Gates/Different_Rightmost_Bit.java) | 23/162 |
-| [Equal_Pair_of_Bits](The_Core/Intro_Gates/Equal_Pair_of_Bits.java) | 24/162 |
+| [Kill_Kth_Bit](The_Core/Corner_of_0s_and_1s/Kill_Kth_Bit.java) | 17/162 |
+| [Array_Packing](The_Core/Corner_of_0s_and_1s/Array_Packing.java) | 18/162 |
+| [Range_Bit_Count](The_Core/Corner_of_0s_and_1s/Range_Bit_Count.java) | 19/162 |
+| [Mirror_Bits](The_Core/Corner_of_0s_and_1s/Mirror_Bits.java) | 20/162 |
+| [Second_Rightmost_Zero_Bit](The_Core/Corner_of_0s_and_1s/Second_Rightmost_Zero_Bit.java) | 21/162 |
+| [Swap_Adjacents_Bits](The_Core/Corner_of_0s_and_1s/Swap_Adjacents_Bits.java) | 22/162 |
+| [Different_Rightmost_Bit](The_Core/Corner_of_0s_and_1s/Different_Rightmost_Bit.java) | 23/162 |
+| [Equal_Pair_of_Bits](The_Core/Corner_of_0s_and_1s/Equal_Pair_of_Bits.java) | 24/162 |
 
 | [Loop Tunnel](The_Core/Loop_Tunnel) | Level 4 |
 | ----- | ----- |
+| [Least_Factorial](The_Core/Loop_Tunnel/Second_Rightmost_Zero_Bit.java) | 25/162 |
+| [Count_Sum_of_Two_Representations_2](The_Core/Loop_Tunnel/Count_Sum_of_Two_Representations_2.java) | 26/162 |
+| [Magical_Well](The_Core/Loop_Tunnel/Magical_Well.java) | 27/162 |
+| [Lineup](The_Core/Loop_Tunnel/Lineup.java) | 28/162 |
 
 | [List Forest Edge](The_Core/List_Forest_Edge) | Level 5 |
 | ----- | ----- |
