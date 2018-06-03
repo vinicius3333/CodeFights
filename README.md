@@ -142,6 +142,10 @@ My solutions for the CodeFights with Java.
 | [Count_Sum_of_Two_Representations_2](The_Core/Loop_Tunnel/Count_Sum_of_Two_Representations_2.java) | 26/162 |
 | [Magical_Well](The_Core/Loop_Tunnel/Magical_Well.java) | 27/162 |
 | [Lineup](The_Core/Loop_Tunnel/Lineup.java) | 28/162 |
+| [Addition_Without_Carrying](The_Core/Loop_Tunnel/Addition_Without_Carrying.java) | 29/162 |
+| [Apple_Boxes](The_Core/Loop_Tunnel/Apple_Boxes.java) | 30/162 |
+| [Increase_Number_Roundness](The_Core/Loop_Tunnel/Increase_Number_Roundness.java) | 31/162 |
+| [Rounders](The_Core/Loop_Tunnel/Rounders.java) | 32/162 |
 
 | [List Forest Edge](The_Core/List_Forest_Edge) | Level 5 |
 | ----- | ----- |
