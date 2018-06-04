@@ -146,6 +146,8 @@ My solutions for the CodeFights with Java.
 | [Apple_Boxes](The_Core/Loop_Tunnel/Apple_Boxes.java) | 30/162 |
 | [Increase_Number_Roundness](The_Core/Loop_Tunnel/Increase_Number_Roundness.java) | 31/162 |
 | [Rounders](The_Core/Loop_Tunnel/Rounders.java) | 32/162 |
+| [Candles](The_Core/Loop_Tunnel/Candles.java) | 33/162 |
+| [Count_Black_Cells](The_Core/Loop_Tunnel/Count_Black_Cells.java) | 34/162 |
 
 | [List Forest Edge](The_Core/List_Forest_Edge) | Level 5 |
 | ----- | ----- |
