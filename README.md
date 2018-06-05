@@ -151,3 +151,6 @@ My solutions for the CodeFights with Java.
 
 | [List Forest Edge](The_Core/List_Forest_Edge) | Level 5 |
 | ----- | ----- |
+
+| [Labyrinth of Nested Loops](The_Core/Labyrinth_of_Nested_Loops) | Level 6 |
+| ----- | ----- |
