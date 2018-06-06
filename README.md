@@ -151,6 +151,10 @@ My solutions for the CodeFights with Java.
 
 | [List Forest Edge](The_Core/List_Forest_Edge) | Level 5 |
 | ----- | ----- |
+| [Create_Array](The_Core/List_Forest_Edge/Create_Array.java) | 35/162 |
+| [Array_Replace](The_Core/List_Forest_Edge/Array_Replace.java) | 36/162 |
+| [First_Reverse_Try](The_Core/List_Forest_Edge/First_Reverse_Try.java) | 37/162 |
+| [Concatenate_Arrays](The_Core/List_Forest_Edge/Concatenate_Arrays.java) | 38/162 |
 
 | [Labyrinth of Nested Loops](The_Core/Labyrinth_of_Nested_Loops) | Level 6 |
 | ----- | ----- |
