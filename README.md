@@ -155,6 +155,10 @@ My solutions for the CodeFights with Java.
 | [Array_Replace](The_Core/List_Forest_Edge/Array_Replace.java) | 36/162 |
 | [First_Reverse_Try](The_Core/List_Forest_Edge/First_Reverse_Try.java) | 37/162 |
 | [Concatenate_Arrays](The_Core/List_Forest_Edge/Concatenate_Arrays.java) | 38/162 |
+| [Remove_Array_Part](The_Core/List_Forest_Edge/Remove_Array_Part.java) | 39/162 |
+| [Is_Smooth](The_Core/List_Forest_Edge/Is_Smooth.java) | 40/162 |
+| [Replace_Middle](The_Core/List_Forest_Edge/Replace_Middle.java) | 41/162 |
+| [Make_Array_Consecutive_2](The_Core/List_Forest_Edge/Make_Array_Consecutive_2.java) | 42/162 |
 
 | [Labyrinth of Nested Loops](The_Core/Labyrinth_of_Nested_Loops) | Level 6 |
 | ----- | ----- |
