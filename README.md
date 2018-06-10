@@ -162,3 +162,4 @@ My solutions for the CodeFights with Java.
 
 | [Labyrinth of Nested Loops](The_Core/Labyrinth_of_Nested_Loops) | Level 6 |
 | ----- | ----- |
+| [Is_Power](The_Core/Labrinth_of_Nested_Loops/Is_Power.java) | 43/162 |
