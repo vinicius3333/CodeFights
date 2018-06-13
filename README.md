@@ -164,3 +164,4 @@ My solutions for the CodeFights with Java.
 | ----- | ----- |
 | [Is_Power](The_Core/Labrinth_of_Nested_Loops/Is_Power.java) | 43/162 |
 | [Is_Sum_of_Consecutive_2](The_Core/Labrinth_of_Nested_Loops/Is_Sum_of_Consecutive_2.java) | 44/162 |
+| [Pages_Numbering_With_Ink](The_Core/Labrinth_of_Nested_Loops/Pages_Numbering_With_Ink.java) | 45/162 |
