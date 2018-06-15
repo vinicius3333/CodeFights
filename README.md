@@ -166,3 +166,4 @@ My solutions for the CodeFights with Java.
 | [Is_Sum_of_Consecutive_2](The_Core/Labrinth_of_Nested_Loops/Is_Sum_of_Consecutive_2.java) | 44/162 |
 | [Square_Digits_Sequence](The_Core/Labrinth_of_Nested_Loops/Square_Digits_Sequence.java) | 45/162 |
 | [Pages_Numbering_With_Ink](The_Core/Labrinth_of_Nested_Loops/Pages_Numbering_With_Ink.java) | 46/162 |
+| [Comfortable_Numbers](The_Core/Labrinth_of_Nested_Loops/Comfortable_Numbers.java) | 47/162 |
