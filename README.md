@@ -169,3 +169,4 @@ My solutions for the CodeFights with Java.
 | [Comfortable_Numbers](The_Core/Labrinth_of_Nested_Loops/Comfortable_Numbers.java) | 47/162 |
 | [Weak_Numbers](The_Core/Labrinth_of_Nested_Loops/Weak_Numbers.java) | 48/162 |
 | [Rectangle_Rotation](The_Core/Labrinth_of_Nested_Loops/Rectangle_Rotation.java) | 49/162 |
+| [Crossword_Formation](The_Core/Labrinth_of_Nested_Loops/Crossword_Formation.java) | 50/162 |
