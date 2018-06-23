@@ -170,3 +170,6 @@ My solutions for the CodeFights with Java.
 | [Weak_Numbers](The_Core/Labrinth_of_Nested_Loops/Weak_Numbers.java) | 48/162 |
 | [Rectangle_Rotation](The_Core/Labrinth_of_Nested_Loops/Rectangle_Rotation.java) | 49/162 |
 | [Crossword_Formation](The_Core/Labrinth_of_Nested_Loops/Crossword_Formation.java) | 50/162 |
+
+| [Book Market](The_Core/Book_Market) | Level 7 |
+| ----- | ----- |
