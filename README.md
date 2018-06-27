@@ -174,3 +174,4 @@ My solutions for the CodeFights with Java.
 | [Book Market](The_Core/Book_Market) | Level 7 |
 | ----- | ----- |
 | [Enclose_In_Brackets](The_Core/Book_Market/Enclose_In_Brackets.java) | 51/162 |
+| [Proper_Noun_Correction](The_Core/Book_Market/Proper_Noun_Correction.java) | 52/162 |
