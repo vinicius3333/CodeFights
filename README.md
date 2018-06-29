@@ -175,3 +175,4 @@ My solutions for the CodeFights with Java.
 | ----- | ----- |
 | [Enclose_In_Brackets](The_Core/Book_Market/Enclose_In_Brackets.java) | 51/162 |
 | [Proper_Noun_Correction](The_Core/Book_Market/Proper_Noun_Correction.java) | 52/162 |
+| [Is_Tandem_Repeat](The_Core/Book_Market/Is_Tandem_Repeat.java) | 53/162 |
