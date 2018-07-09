@@ -5,19 +5,20 @@ import java.util.regex.Pattern;
 
 public class HTML_End_Tag_By_Start_Tag {
     public static void main(String[] args) {
-
+        System.out.pritnln(htmlEndTagByStartTag("<button type='button' disabled>"));
     }
 
     static String htmlEndTagByStartTag(String startTag) {
+        if(startTag.contains(" ")){
+            startTag = startTag.substring(1, startTag.indexOf(" "));
+        } else{
+            startTag = startTag.substring(startTag.indexOf("<")+1, startTag.indexOf(">"));
+            Pattern p = Pattern.compile("\\s");
+            Matcher m = p.matcher(startTag);
+        }
 
-        startTag = startTag.substring(startTag.indexOf("<")+1, startTag.indexOf(">"));
-        Pattern p = Pattern.compile("\\s");
-        Matcher m = p.matcher(startTag);
+        startTag = "</" + startTag + ">";
 
-
-
-        System.out.println(startTag);
-
-        return "";
+        return startTag;
     }
 }
