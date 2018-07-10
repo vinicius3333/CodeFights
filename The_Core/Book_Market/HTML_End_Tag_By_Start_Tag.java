@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public class HTML_End_Tag_By_Start_Tag {
     public static void main(String[] args) {
-        System.out.pritnln(htmlEndTagByStartTag("<button type='button' disabled>"));
+        System.out.println(htmlEndTagByStartTag("<button type='button' disabled>"));
     }
 
     static String htmlEndTagByStartTag(String startTag) {
