@@ -180,4 +180,4 @@ My solutions for the CodeFights with Java.
 | [Find_Email_Domain](The_Core/Book_Market/Find_Email_Domain.java) | 55/162 |
 | [HTML_End_Tag_By_Start_Tag](The_Core/Book_Market/HTML_End_Tag_By_Start_Tag.java) | 56/162 |
 | [Is_MAC48_Adress](The_Core/Book_Market/Is_MAC48_Adress.java) | 57/162 |
- 	
+| [Is_Unstable_Pair](The_Core/Book_Market/Is_Unstable_Pair.java) | 58/162 |
