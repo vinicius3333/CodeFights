@@ -181,3 +181,6 @@ My solutions for the CodeFights with Java.
 | [HTML_End_Tag_By_Start_Tag](The_Core/Book_Market/HTML_End_Tag_By_Start_Tag.java) | 56/162 |
 | [Is_MAC48_Adress](The_Core/Book_Market/Is_MAC48_Adress.java) | 57/162 |
 | [Is_Unstable_Pair](The_Core/Book_Market/Is_Unstable_Pair.java) | 58/162 |
+
+| [Mirror_Lake](The_Core/Mirror_Lake) | Level 8 |
+| ----- | ----- |
