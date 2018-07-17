@@ -184,3 +184,5 @@ My solutions for the CodeFights with Java.
 
 | [Mirror_Lake](The_Core/Mirror_Lake) | Level 8 |
 | ----- | ----- |
+| [Strings_Construction](The_Core/Book_Market/Strings_Construction.java) | 59/162 |
+ 	
