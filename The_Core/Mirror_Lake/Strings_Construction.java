@@ -8,19 +8,18 @@ public class Strings_Construction {
     }
 
     static int stringsConstruction(String a, String b) {
-        ArrayList<Integer> list = new ArrayList<>();
-        int count = 0;
+        int result = 0;
 
-        for(int i = 0; i < a.length(); i++){
-            for(int j = 0; j < b.length(); j++){
-                if(a.charAt(i) == b.charAt(j)){
-                    count++;
+        while(true){
+            for(int i = 0; i < a.length(); i++){
+                int index = b.indexOf(a.charAt(i));
+                if(index == -1){
+                    return result;
+                } else{
+                    b = b.substring(0,index) + "." + b.substring(index+1);
                 }
-                System.out.println(a.charAt(i) + " " + b.charAt(j));
             }
-            list.add(count);
-            count = 0;
+            result++;
         }
-        return 0;
     }
 }
