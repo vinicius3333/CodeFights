@@ -1,5 +1,18 @@
 package CodeFights.Intro.Edge_of_the_Ocean;
 
+/*** 
+---Pergunta/ Question---
+Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing 
+sequence by removing no more than one element from the array.
+
+Dada uma seqüência de inteiros como uma matriz, determine se é possível obter um número estritamente crescente
+sequência, removendo não mais do que um elemento da matriz.
+---Comentários/ Comments---
+Make an algorithm to check if an array can be in ascending order by removing an element from it
+
+Faça um algoritmo para verificar se uma array pode ficar em ordem crescente removendo um elemento da mesma
+***/
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
