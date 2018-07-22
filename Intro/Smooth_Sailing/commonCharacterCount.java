@@ -1,5 +1,16 @@
 package CodeFights.Intro.Smooth_Sailing;
 
+/*** 
+---Pergunta/ Question---
+Given two strings, find the number of common characters between them.
+
+Dadas duas strings, encontre o número de caracteres comuns entre elas.
+---Comentários/ Comments---
+Make an algorithm that counts how many characters are similar
+
+Faça um algoritmo que conte quantos caracteres são semelhantes
+***/
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
