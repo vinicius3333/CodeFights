@@ -1,5 +1,18 @@
 package CodeFights.Intro.Smooth_Sailing;
 
+/*** 
+---Pergunta/ Question---
+Given an array of strings, return another array containing all of its longest strings.
+
+Dado um array de strings, retorne outro array contendo todas as suas strings mais longas.
+---Comentários/ Comments---
+Make an algorithm that takes the value of the largest string in the array and then returns 
+an array with all strings of the same length.
+
+Faça um algoritmo que pegue o valor da maior string da array e depois retorne uma array 
+com todas as strings com o mesmo tamanho
+***/
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
