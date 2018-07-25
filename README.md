@@ -24,8 +24,8 @@ My solutions for the CodeFights with Java.
 | [All_Longest_Strings](Intro/Smooth_Sailing/All_Longest_Strings.java) | 9/60 |
 | [commonCharacterCount](Intro/Smooth_Sailing/commonCharacterCount.java) | 10/60 |
 | [isLucky](Intro/Smooth_Sailing/isLucky.java) | 11/60 |
-| [reverseParentheses](Intro/Smooth_Sailing/reverseParentheses.java) | 12/60 |
-| [sortByHeight](Intro/Smooth_Sailing/sortByHeight.java) | 13/60 |
+| [sortByHeight](Intro/Smooth_Sailing/sortByHeight.java) | 12/60 |
+| [reverseParentheses](Intro/Smooth_Sailing/reverseParentheses.java) | 13/60 |
 
 | [Exploring The Waters](Intro/Exploring_The_Waters) | Level 4 |
 | ----- | ----- |
