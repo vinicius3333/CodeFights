@@ -1,5 +1,16 @@
 package CodeFights.Intro.Exploring_The_Waters;
 
+/*** 
+---Pergunta/ Question---
+Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+
+Dada uma matriz retangular de caracteres, adicione uma borda de asteriscos (*) a ela.
+---Comentários/ Comments---
+Make an algorithm that adds * into a matrix forming an edge
+
+Faça um algoritmo que adicione * em uma matriz formando uma borda
+***/
+
 import java.util.Arrays;
 
 public class Add_Border {
