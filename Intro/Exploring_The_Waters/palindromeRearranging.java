@@ -1,5 +1,16 @@
 package CodeFights.Intro.Exploring_The_Waters;
 
+/*** 
+---Pergunta/ Question---
+Given a string, find out if its characters can be rearranged to form a palindrome.
+
+Dada uma string, descubra se seus personagens podem ser reorganizados para formar um palíndromo.
+---Comentários/ Comments---
+Make an algorithm that discovers whether a rearranged String can be a palindrome
+
+Faça um algoritmo que descubra se uma String rearranjada pode ser um palíndromo
+***/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
