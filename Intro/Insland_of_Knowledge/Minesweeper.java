@@ -1,5 +1,20 @@
 package CodeFights.Intro.Insland_of_Knowledge;
 
+/*** 
+---Pergunta/ Question---
+In the popular Minesweeper game you have a board with some mines and those cells that don't contain a mine have a number in 
+it that indicates the total number of mines in the neighboring cells. Starting off with some arrangement of mines we want to
+create a Minesweeper game setup.
+
+No popular jogo Campo Minado você tem um tabuleiro com algumas minas e as que não contêm minas têm um número em
+isso indica o número total de minas nas células vizinhas. Começando com algum arranjo de minas que queremos
+crie uma configuração de jogo de Campo Minado.
+---Comentários/ Comments---
+Make a Minesweeper algorithm
+
+Faça um algoritmo de campo minado
+***/
+
 import java.util.Arrays;
 
 public class Minesweeper {
