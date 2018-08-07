@@ -1,5 +1,16 @@
 package CodeFights.Intro.Rains_of_Reason;
 
+/*** 
+---Pergunta/ Question---
+Given an array of integers, replace all the occurrences of elemToReplace with substitutionElem.
+
+Dado um array de inteiros, substitua todas as ocorrências de elemToReplace por substitutionElem.
+---Comentários/ Comments---
+Make an algorithm that changes the value of some index of the array to the substitutionElem if it is equal to the elemToReplace
+
+Faça um algoritmo que troque o valor de algum index da array para o substitutionElem se ele for igual ao elemToReplace 
+***/
+
 import java.util.Arrays;
 
 public class Array_Replace {
