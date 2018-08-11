@@ -1,5 +1,16 @@
 package CodeFights.Intro.Rains_of_Reason;
 
+/*** 
+---Pergunta/ Question---
+Given two cells on the standard chess board, determine whether they have the same color or not.
+
+Dadas duas células no tabuleiro de xadrez padrão, determine se elas têm a mesma cor ou não.
+---Comentários/ Comments---
+Make an algorithm that determines whether the two cells are the same color
+
+Faça um algoritmo que determine se as duas celulas são da mesma cor
+***/
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 
