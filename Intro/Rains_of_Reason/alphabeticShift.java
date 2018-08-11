@@ -1,5 +1,16 @@
 package CodeFights.Intro.Rains_of_Reason;
 
+/*** 
+---Pergunta/ Question---
+Given a string, replace each its character by the next one in the English alphabet (z would be replaced by a).
+
+Dada uma string, substitua cada caractere pela seguinte no alfabeto inglês (z será substituído por a).
+---Comentários/ Comments---
+Make an algorithm that changes the letters of the word to a house next to it according to the alphabet
+
+Faça um algoritmo que mude as letras da palavra para uma casa ao lado de acordo com o alfabeto
+***/
+
 public class alphabeticShift {
     public static void main(String[] args){
         System.out.print(alphabeticShift("teste"));
