@@ -1,5 +1,18 @@
 package CodeFights.Intro.Through_the_Fog;
 
+/*** 
+---Pergunta/ Question---
+Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after
+the rearrangement the strings at consecutive positions would differ by exactly one character.
+
+Dado um array de strings de comprimento igual, verifique se é possível reorganizar as strings de tal forma que
+o rearranjo das cadeias em posições consecutivas seria diferente por exatamente um caractere.
+---Comentários/ Comments---
+Make an algorithm that shows whether array strings can be different by just one character
+
+Faça um algoritmo que mostre se as Strings de array conseguem ser diferentes por apenas um caractere
+***/
+
 import java.util.ArrayList;
 
 public class stringRearrangement {
