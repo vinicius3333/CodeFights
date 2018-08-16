@@ -1,5 +1,16 @@
 package CodeFights.Intro.Diving_Deeper;
 
+/*** 
+---Pergunta/ Question---
+Given array of integers, remove each kth element from it.
+
+Dada matriz de inteiros, remova cada k-ésimo elemento dele.
+---Comentários/ Comments---
+Make an algorithm that every k-th remove the element from the array.
+
+Faça um algoritmo que a cada k-ésimo remova o elemento da array.
+***/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
