@@ -1,5 +1,16 @@
 package CodeFights.Intro.Diving_Deeper;
 
+/*** 
+---Pergunta/ Question---
+Given a string, find the number of different characters in it.
+
+Dada uma string, encontre o número de caracteres diferentes nela.
+---Comentários/ Comments---
+Make an algorithm to find how many characters are different in a String
+
+Faça um algoritmo para encontrar quantos caracteres sao diferentes em uma String
+***/
+
 import java.util.HashSet;
 
 public class differentSymbolsNaive {
