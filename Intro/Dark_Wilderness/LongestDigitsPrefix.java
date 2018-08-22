@@ -1,5 +1,16 @@
 package codeFighters;
 
+/*** 
+---Pergunta/ Question---
+Given a string, output its longest prefix which contains only digits.
+
+Dada uma string, imprima seu prefixo mais longo, que contém apenas dígitos.
+---Comentários/ Comments---
+Make an algorithm that finds the largest number prefix in a String
+
+Faça um algoritmo que encontre o maior prefixo de números em uma String
+***/
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
