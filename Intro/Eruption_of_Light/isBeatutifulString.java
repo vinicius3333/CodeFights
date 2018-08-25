@@ -1,5 +1,16 @@
 package CodeFights.Intro.Eruption_of_Light;
 
+/*** 
+---Pergunta/ Question---
+A string is said to be beautiful if b occurs in it no more times than a; c occurs in it no more times than b; etc.
+
+Diz-se que uma corda é bonita se b ocorre nela não mais que uma; c não ocorre mais vezes que b; etc.
+---Comentários/ Comments---
+Make an algorithm that discovers whether a String is beautiful or not.
+
+Faça um algoritmo que descubra se uma String é bonita ou não.
+***/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
