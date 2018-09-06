@@ -1,5 +1,16 @@
 package CodeFights.Intro.Land_of_Logic;
 
+/*** 
+---Pergunta/ Question---
+Given a rectangular matrix containing only digits, calculate the number of different 2 × 2 squares in it.
+
+Dada uma matriz retangular contendo apenas dígitos, calcule o número de diferentes quadrados 2 × 2.
+---Comentários/ Comments---
+Make an algorithm that returns the size of the list with all 2 x 2 elements in the array.
+
+Faça um algoritmo que retorne o tamanho da lista com todos os elementos 2 x 2 da matriz.
+***/
+
 import java.util.ArrayList;
 import java.util.HashSet;
 
