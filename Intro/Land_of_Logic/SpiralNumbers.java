@@ -1,5 +1,18 @@
 package codefight;
 
+/*** 
+---Pergunta/ Question---
+Construct a square matrix with a size N × N containing integers from 1 to N * N in a spiral order, starting from top-left and 
+in clockwise direction.
+
+Construir uma matriz quadrada com um tamanho N × N contendo números inteiros de 1 a N * N em ordem de espiral, começando do 
+canto superior esquerdo e no sentido horário.
+---Comentários/ Comments---
+Make an algorithm that returns an n × n matrix in a spiral format.
+
+Faça um algoritmo que retorna uma matriz n x n em formato de espiral.
+***/
+
 import java.util.Arrays;
 
 public class SpiralNumbers {
