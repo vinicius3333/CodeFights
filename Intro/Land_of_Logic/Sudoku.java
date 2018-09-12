@@ -1,5 +1,20 @@
 package CodeFights.Intro.Land_of_Logic;
 
+/*** 
+---Pergunta/ Question---
+Sudoku is a number-placement puzzle. The objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the 
+nine 3 × 3 sub-grids that compose the grid contains all of the digits from 1 to 9. This algorithm should check if the given grid of 
+numbers represents a correct solution to Sudoku.
+
+Sudoku é um quebra-cabeça de colocação de números. O objetivo é preencher uma grade 9 × 9 com dígitos para que cada coluna, cada linha
+e cada uma das nove sub-redes 3 × 3 que compõem a grade contenham todos os dígitos de 1 a 9. Esse algoritmo deve verificar se a grade 
+de números indicada representa uma solução correta para o Sudoku.
+---Comentários/ Comments---
+Make an algorithm that checks and validates the array according to the rules.
+
+Faça um algoritmo que verifique e valide a matriz de acordo com as regras.
+***/
+
 import java.util.ArrayList;
 
 public class Sudoku {
