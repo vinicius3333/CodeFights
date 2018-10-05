@@ -2,17 +2,15 @@ package CodeFights.The_Core.Corner_of_0s_and_1s;
 
 /*** 
 ---Pergunta/ Question---
-You're given an arbitrary 32-bit integer n. Take its binary representation, split bits into it in pairs (bit number 0 and 1, bit
-number 2 and 3, etc.) and swap bits in each pair. Then return the result as a decimal number.
+Presented with the integer n, find the 0-based position of the second rightmost zero bit in its binary representation (it is guaranteed
+that such a bit exists), counting from right to left. Return the value of 2position_of_the_found_bit.
 
-Você recebe um inteiro arbitrário de 32 bits n. Tome sua representação binária, divida os bits em pares (bit número 0 e 1, bit
-número 2 e 3, etc.) e troque os bits em cada par. Em seguida, retorne o resultado como um número decimal.
+Apresentado com o inteiro n, encontre a posição baseada em 0 do segundo bit zero mais à direita em sua representação binária (é garantido 
+que tal bit existe), contando da direita para a esquerda. Retorne o valor de 2position_of_the_found_bit.
 ---Comentários/ Comments---
-Make an algorithm that converts the number to binary, separates into pairs and then inverts them, in the end converts back to
-base 10.
+Make an algorithm that returns the value of the second 0 of the integer bit.
 
-Faça um algoritmo que converta o número em binário, separe em pares e depois inverta-os, no final converta novamente para a 
-base 10.
+Faça um algoritmo que retorne o valor do segundo 0 do bit do número inteiro.
 ***/
 
 public class Second_Rightmost_Zero_Bit {
