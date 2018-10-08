@@ -138,7 +138,7 @@ My solutions for the CodeFights with Java.
 
 | [Loop Tunnel](The_Core/Loop_Tunnel) | Level 4 |
 | ----- | ----- |
-| [Least_Factorial](The_Core/Loop_Tunnel/Second_Rightmost_Zero_Bit.java) | 25/162 |
+| [Least_Factorial](The_Core/Loop_Tunnel/Least_Factorial.java) | 25/162 |
 | [Count_Sum_of_Two_Representations_2](The_Core/Loop_Tunnel/Count_Sum_of_Two_Representations_2.java) | 26/162 |
 | [Magical_Well](The_Core/Loop_Tunnel/Magical_Well.java) | 27/162 |
 | [Lineup](The_Core/Loop_Tunnel/Lineup.java) | 28/162 |
