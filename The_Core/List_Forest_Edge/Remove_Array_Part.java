@@ -1,5 +1,16 @@
 package CodeFights.The_Core.List_Forest_Edge;
 
+/*** 
+---Pergunta/ Question---
+Remove a part of a given array between given 0-based indexes l and r (inclusive).
+
+Remova uma parte de uma determinada matriz entre os índices baseados em 0 le e r (inclusive).
+---Comentários/ Comments---
+Make an algorithm that removes a part of the array.
+
+Faça um algoritmo que remova uma parte da array.
+***/
+
 import java.util.Arrays;
 
 public class Remove_Array_Part {
