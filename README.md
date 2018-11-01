@@ -162,14 +162,14 @@ My solutions for the CodeFights with Java.
 
 | [Labyrinth of Nested Loops](The_Core/Labyrinth_of_Nested_Loops) | Level 6 |
 | ----- | ----- |
-| [Is_Power](The_Core/Labrinth_of_Nested_Loops/Is_Power.java) | 43/162 |
-| [Is_Sum_of_Consecutive_2](The_Core/Labrinth_of_Nested_Loops/Is_Sum_of_Consecutive_2.java) | 44/162 |
-| [Square_Digits_Sequence](The_Core/Labrinth_of_Nested_Loops/Square_Digits_Sequence.java) | 45/162 |
-| [Pages_Numbering_With_Ink](The_Core/Labrinth_of_Nested_Loops/Pages_Numbering_With_Ink.java) | 46/162 |
-| [Comfortable_Numbers](The_Core/Labrinth_of_Nested_Loops/Comfortable_Numbers.java) | 47/162 |
-| [Weak_Numbers](The_Core/Labrinth_of_Nested_Loops/Weak_Numbers.java) | 48/162 |
-| [Rectangle_Rotation](The_Core/Labrinth_of_Nested_Loops/Rectangle_Rotation.java) | 49/162 |
-| [Crossword_Formation](The_Core/Labrinth_of_Nested_Loops/Crossword_Formation.java) | 50/162 |
+| [Is_Power](The_Core/Labyrinth_of_Nested_Loops/Is_Power.java) | 43/162 |
+| [Is_Sum_of_Consecutive_2](The_Core/Labyrinth_of_Nested_Loops/Is_Sum_of_Consecutive_2.java) | 44/162 |
+| [Square_Digits_Sequence](The_Core/Labyrinth_of_Nested_Loops/Square_Digits_Sequence.java) | 45/162 |
+| [Pages_Numbering_With_Ink](The_Core/Labyrinth_of_Nested_Loops/Pages_Numbering_With_Ink.java) | 46/162 |
+| [Comfortable_Numbers](The_Core/Labyrinth_of_Nested_Loops/Comfortable_Numbers.java) | 47/162 |
+| [Weak_Numbers](The_Core/Labyrinth_of_Nested_Loops/Weak_Numbers.java) | 48/162 |
+| [Rectangle_Rotation](The_Core/Labyrinth_of_Nested_Loops/Rectangle_Rotation.java) | 49/162 |
+| [Crossword_Formation](The_Core/Labyrinth_of_Nested_Loops/Crossword_Formation.java) | 50/162 |
 
 | [Book Market](The_Core/Book_Market) | Level 7 |
 | ----- | ----- |
